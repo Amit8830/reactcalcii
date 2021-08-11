@@ -154,7 +154,7 @@ function App() {
           -
         </div>
         <div className='btn zero' onClick={inputNum}>
-          0
+          00
         </div>
         <div className='btn' onClick={inputNum}>
           .
